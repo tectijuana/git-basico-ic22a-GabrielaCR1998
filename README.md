@@ -2,7 +2,7 @@
 
 
 # :wave: Instituto Tecnológico de Tijuana
-octocat: Ingeniería Tecnologías de la información y comunicación
+:octocat: Ingeniería Tecnologías de la información y comunicación
 ## :octocat: Departamento de Sistemas y Computación
 ## :octocat: Materia: Ing. de Conocimiento
 ## :octocat: Profesor: Rene Solis Reyes
